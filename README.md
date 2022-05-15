@@ -1,3 +1,7 @@
+# 注意点・メモ
+
+- webfront の package.json は react17 系にする。その他バージョンも一致させる。
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
